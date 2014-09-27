@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>STUDENT</Machine>
+    <WindowsUser>just</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>BUILD.87821274-9e97-488c-b5af-69dace508bff</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A6504D478F05FD4C88C088231AF31DF96A5E6A8A4D872328DCF20B9EC3E20E15</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BUILD.87821274-9e97-488c-b5af-69dace508bff_1.0.0.0_neutral__scs3de4092tee</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>BUILD.87821274-9e97-488c-b5af-69dace508bff_scs3de4092tee!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>BUILD.87821274-9e97-488c-b5af-69dace508bff</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=just</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-26T07:45:16.323</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\ContosoCookbook.exe">
+      <PackagePath>ContosoCookbook.exe</PackagePath>
+      <Modified>2014-09-27T12:38:50.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Beans.jpg">
+      <PackagePath>Images\Beans.jpg</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Bread.jpg">
+      <PackagePath>Images\Bread.jpg</PackagePath>
+      <Modified>2014-09-26T02:16:20.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_1_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:52:56.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_1_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:43:23.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_2_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:35:50.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_2_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:43:37.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_3_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:58:11.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_3_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:44:00.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_4_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:47:55.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_4_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:44:17.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_5_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T07:42:14.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_5_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:44:34.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_6_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:44:47.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_6_310_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_310_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:44:54.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\Chinese_6_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:43:07.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_1_150_C.jpg">
+      <PackagePath>Images\French\French_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:22:54.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_1_600_C.jpg">
+      <PackagePath>Images\French\French_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T10:34:15.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_2_150_C.jpg">
+      <PackagePath>Images\French\French_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:31:20.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_2_310_C.jpg">
+      <PackagePath>Images\French\French_2_310_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:40:16.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_2_600_C.jpg">
+      <PackagePath>Images\French\French_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:30:07.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_3_150_C.jpg">
+      <PackagePath>Images\French\French_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:25:11.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_3_600_C.jpg">
+      <PackagePath>Images\French\French_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:24:20.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_4_150_C.jpg">
+      <PackagePath>Images\French\French_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:28:02.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_4_600_C.jpg">
+      <PackagePath>Images\French\French_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:27:41.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_5_150_C.jpg">
+      <PackagePath>Images\French\French_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:34:19.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_5_600_C.jpg">
+      <PackagePath>Images\French\French_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:33:06.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_6_150_C.jpg">
+      <PackagePath>Images\French\French_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T10:33:53.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\French_6_600_C.jpg">
+      <PackagePath>Images\French\French_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:37:14.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Fruit.jpg">
+      <PackagePath>Images\Fruit.jpg</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_1_150_C.jpg">
+      <PackagePath>Images\German\German_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:15:29.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_1_600_C.jpg">
+      <PackagePath>Images\German\German_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:15:04.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_2_150_C.jpg">
+      <PackagePath>Images\German\German_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T06:57:08.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_2_600_C.jpg">
+      <PackagePath>Images\German\German_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T06:59:00.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_3_150_C.jpg">
+      <PackagePath>Images\German\German_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T07:02:06.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_3_600_C.jpg">
+      <PackagePath>Images\German\German_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T07:03:37.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_4_150_C.jpg">
+      <PackagePath>Images\German\German_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T07:08:19.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_4_310_C.jpg">
+      <PackagePath>Images\German\German_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-27T07:10:26.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_4_600_C.jpg">
+      <PackagePath>Images\German\German_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T07:09:18.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_5_150_C.jpg">
+      <PackagePath>Images\German\German_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T06:55:42.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_5_600_C.jpg">
+      <PackagePath>Images\German\German_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:20:29.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_6_150_C.jpg">
+      <PackagePath>Images\German\German_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:23:32.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\German_6_600_C.jpg">
+      <PackagePath>Images\German\German_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T09:24:22.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_1_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T00:59:28.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_1_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:46:26.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_2_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:49:06.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_2_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:48:35.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_3_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:51:16.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_3_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T00:49:02.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_4_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:54:19.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_4_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:53:05.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_5_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:56:49.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_5_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:55:20.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_6_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T07:52:06.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\Indian_6_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T07:52:18.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_1_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:04:54.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_1_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:06:08.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_2_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:08:17.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_2_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:09:17.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_3_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:11:49.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_3_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T10:48:30.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_4_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:15:39.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_4_310_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:19:46.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_4_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:16:37.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_5_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:08:33.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_5_310_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_310_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:10:55.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_5_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:09:12.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_6_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:26:45.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\Italian_6_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:28:18.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_1_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_1_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:38:31.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_1_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_1_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T08:39:28.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_2_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_2_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T10:14:26.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_2_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_2_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T10:15:36.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_3_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_3_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:01:08.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_3_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_3_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:00:43.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_4_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_4_150_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:05:22.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_4_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_4_600_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:04:00.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_5_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_5_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T10:25:22.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_5_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_5_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T10:25:10.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_6_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_6_150_C.jpg</PackagePath>
+      <Modified>2014-09-27T01:19:38.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\Mexican_6_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_6_600_C.jpg</PackagePath>
+      <Modified>2014-09-27T01:18:40.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Muesli.jpg">
+      <PackagePath>Images\Muesli.jpg</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Tiles\Chinese_6_310_C.jpg">
+      <PackagePath>Images\Tiles\Chinese_6_310_C.jpg</PackagePath>
+      <Modified>2014-09-26T06:44:54.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Tiles\French_2_310_C.jpg">
+      <PackagePath>Images\Tiles\French_2_310_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:40:16.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Tiles\German_4_310_C.jpg">
+      <PackagePath>Images\Tiles\German_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-26T10:42:26.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Tiles\Italian_4_310_C.jpg">
+      <PackagePath>Images\Tiles\Italian_4_310_C.jpg</PackagePath>
+      <Modified>2014-09-26T08:10:55.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Tiles\Italian_5_310_C.jpg">
+      <PackagePath>Images\Tiles\Italian_5_310_C.jpg</PackagePath>
+      <Modified>2014-09-27T01:04:09.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\chinese_group.png">
+      <PackagePath>Images\Chinese\chinese_group.png</PackagePath>
+      <Modified>2014-09-26T10:24:04.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\chinese_group_detail.png">
+      <PackagePath>Images\Chinese\chinese_group_detail.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Chinese\chinese_group_header.png">
+      <PackagePath>Images\Chinese\chinese_group_header.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\french_group.png">
+      <PackagePath>Images\French\french_group.png</PackagePath>
+      <Modified>2014-09-26T10:39:17.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\french_group_detail.png">
+      <PackagePath>Images\French\french_group_detail.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\French\french_group_header.png">
+      <PackagePath>Images\French\french_group_header.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\german_group.png">
+      <PackagePath>Images\German\german_group.png</PackagePath>
+      <Modified>2014-09-27T10:38:31.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\german_group_detail.png">
+      <PackagePath>Images\German\german_group_detail.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\German\german_group_header.png">
+      <PackagePath>Images\German\german_group_header.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Hero.png">
+      <PackagePath>Images\Hero.png</PackagePath>
+      <Modified>2014-09-25T07:16:28.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\indian_group.png">
+      <PackagePath>Images\Indian\indian_group.png</PackagePath>
+      <Modified>2014-09-27T00:56:00.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\indian_group_detail.png">
+      <PackagePath>Images\Indian\indian_group_detail.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Indian\indian_group_header.png">
+      <PackagePath>Images\Indian\indian_group_header.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\italian_group.png">
+      <PackagePath>Images\Italian\italian_group.png</PackagePath>
+      <Modified>2014-09-27T10:50:51.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\italian_group_detail.png">
+      <PackagePath>Images\Italian\italian_group_detail.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Italian\italian_group_header.png">
+      <PackagePath>Images\Italian\italian_group_header.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\mexican_group.png">
+      <PackagePath>Images\Mexican\mexican_group.png</PackagePath>
+      <Modified>2014-09-27T10:54:12.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\mexican_group_detail.png">
+      <PackagePath>Images\Mexican\mexican_group_detail.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Images\Mexican\mexican_group_header.png">
+      <PackagePath>Images\Mexican\mexican_group_header.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\LargeLogo.scale-100.png">
+      <PackagePath>Assets\LargeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-27T12:27:09.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-27T12:29:40.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-27T12:28:38.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-27T12:31:00.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-27T12:11:58.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-10-30T16:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-09-27T10:30:49.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-27T12:38:50.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2014-09-27T12:38:50.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2014-09-25T06:03:59.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2014-09-25T06:03:59.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\ContosoCookbook.xr.xml">
+      <PackagePath>ContosoCookbook.xr.xml</PackagePath>
+      <Modified>2014-09-25T06:03:59.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\ContosoCookbook\ContosoCookbook\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-27T11:54:24.439</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
