@@ -1,0 +1,141 @@
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\App.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\HubPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\SearchResultsPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\SectionPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\ItemPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.xr.xml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.exe
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.pdb
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\resources.pri
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\AppxManifest.xml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.build.appxrecipe
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\App.g.i.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\App.g.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\HubPage.g.i.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\HubPage.g.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.g.i.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.g.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.g.i.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.g.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.g.i.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.g.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\App.xaml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\HubPage.xaml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.xaml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.xaml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.xaml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\App.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\HubPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.xbf
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\XamlSaveStateFile.xml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\Charming Makeup.exe
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\Charming Makeup.pdb
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\priconfig.xml
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\priconfig.xml.intermediate
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\layout.resfiles
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\layout.resfiles.intermediate
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\resources.resfiles
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\resources.resfiles.intermediate
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\pri.resfiles
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\pri.resfiles.intermediate
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\qualifiers.txt
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\qualifiers.txt.intermediate
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\just\Desktop\新建文件夹 (3)\Charming Makeup\Charming Makeup\obj\Debug\ProjectArchitectures.txt
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\App.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\HubPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\SearchResultsPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\SectionPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\ItemPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.xr.xml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.exe
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.pdb
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\resources.pri
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\AppxManifest.xml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.build.appxrecipe
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\App.g.i.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\App.g.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\HubPage.g.i.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\HubPage.g.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.g.i.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.g.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.g.i.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.g.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.g.i.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.g.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\App.xaml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\HubPage.xaml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.xaml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.xaml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.xaml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\App.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\HubPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.xbf
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\XamlSaveStateFile.xml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\Charming Makeup.exe
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\Charming Makeup.pdb
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\priconfig.xml
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\priconfig.xml.intermediate
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\layout.resfiles
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\layout.resfiles.intermediate
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\resources.resfiles
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\resources.resfiles.intermediate
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\pri.resfiles
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\pri.resfiles.intermediate
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\qualifiers.txt
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\qualifiers.txt.intermediate
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\just\AppData\Roaming\feiq\Recv Files\Charming Makeup\Charming Makeup\obj\Debug\ProjectArchitectures.txt
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\App.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\HubPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\SearchResultsPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\SectionPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\ItemPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.xr.xml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.exe
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.pdb
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\resources.pri
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\AppxManifest.xml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.build.appxrecipe
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\App.g.i.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\App.g.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\HubPage.g.i.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\HubPage.g.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.g.i.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.g.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.g.i.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.g.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.g.i.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.g.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\App.xaml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\HubPage.xaml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.xaml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.xaml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.xaml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\App.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\HubPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SearchResultsPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\SectionPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\ItemPage.xbf
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\XamlSaveStateFile.xml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\Charming Makeup.exe
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\Charming Makeup.pdb
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\priconfig.xml
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\priconfig.xml.intermediate
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\layout.resfiles
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\layout.resfiles.intermediate
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\resources.resfiles
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\resources.resfiles.intermediate
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\pri.resfiles
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\pri.resfiles.intermediate
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\qualifiers.txt
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\qualifiers.txt.intermediate
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\ProjectArchitectures.txt

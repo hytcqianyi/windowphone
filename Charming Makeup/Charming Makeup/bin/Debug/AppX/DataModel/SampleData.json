@@ -1,0 +1,557 @@
+{"Groups":[
+	{ 
+		"ImagePath" : "Images/Chinese/chinese_group_detail.png",
+		"Description" : "Chanel brand (CHANEL), uphold the founder Gia Buter Lil Chanel lady draw philosophy of innovation and creativity of the times, become the Modern Female Aesthetics vane. No matter fashion, perfume and cosmetics, watches and fine jewelry, was devoted to the creation of female freedom, elegant style, out of the ordinary.",
+		"GroupImagePath" : "Images/Chinese/chinese_group.png",
+		"GroupHeaderImagePath" : "Images/group_header.png",
+		"UniqueId" : "Group-1",
+		"Subtitle" : "CHANEL",
+		"Title" : "CHANEL",
+		"Items" : [
+			{	"ImagePath" : "Images/Chinese/Chinese_1_600_C.jpg",
+				"Content" : "From Dominique Monk Tova and Heidi Morawetz Professional advice: we specifically for the perfect crystal powder through the design of a special material made by both sides to velvet puff is more suitable for the texture. When in use, the powder puff must light on the skin, rather than tapping. The women on the makeup of the inertia action, not only the fixed foundation makeup effect, it will wipe the face makeup. ",
+				"Favorite" : false,
+				"Ingredients" : [ 
+					"It is used to fix the foundation, avoid face reflection, can make makeup, not easy to fall off, more can make the skin look more detailed soft texture."
+				  ],
+				"UniqueId" : "1000",
+				"PreparationTime" : 10,
+				"Rating" : 4,
+				"Title" : "CHANEL poudre cristalline",
+				"Subtitle" : "CHANEL poudre cristalline",
+				"Description" : "CHANEL poudre cristalline",
+				"TileImagePath" : "Images/Chinese/Chinese_1_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Chinese/Chinese_2_600_C.jpg",
+				"Content" : "Use eye shadow stick take No. 1 color evenly to the whole eye socket; use eye shadow brush dipped in 2 colour since the eye line direction of orbital and the outer corner of the eye slowly dizzy; use Eyeshadow tip No. 3 color coated on the lashes at the roots outline; use eye shadow brush No. 4 colored sweep on the brow and inner corner of the eye brighten.",
+				"Favorite" : false,
+				"Ingredients" : [
+					"The new Les is rich in high purity pigment factor 4 Ombres four-color eye shadow, texture soft and delicate, comfortable and easy on the makeup, makeup effect lasting, bright, uniform color and harmony, the formula of pure, completely free of mineral impurities, displaying the unique sense of gloss and transparency. The use of one of a or a few, can freely with the rich, uniform, bright color and changeful makeup effect lasting. The rich colors of eye shadow deep charm; with satin gloss light delicate eye shadow, highlight the unique style; and iridescent changes or metallic eye shadow, is flashing elegant charm."
+				  ],
+				"UniqueId" : "1001",
+				"PreparationTime" : 15,
+				"Rating" : 3,
+				"Title" : "CHANEL Eyeshadow Palette",
+				"Subtitle" : "CHANEL Eyeshadow Palette",
+				"Description" : "CHANEL Eyeshadow Palette",
+				"TileImagePath" : "Images/Chinese/Chinese_2_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Chinese/Chinese_3_600_C.jpg",
+				"Content" : "The cream from the inner to the outer circle, painted the whole face; the pulp gently with both hands pressed brow, gentle movements; with the middle finger fingertip gently on the brow above, press the tip of brow middle, pushed outward; refers to the way of circle back to the pulp gently massage the temples; massage under the eyes, the thumb close to the zygomatic place outward, ear direction jogging; his hand clenched, zygomatic cheek flap following massage; the upper part of the cheek gently with the palm.",
+				"Favorite" : false,
+				"Ingredients" : [
+					"Fresh, soft, light as air... The velvet texture stroking the skin, immediately turned into fresh water, leaving very moist and fresh skin."
+				  ],
+				"UniqueId" : "1002",
+				"PreparationTime" : 15,
+				"Rating" : 5,
+				"Title" : "CHANEL Hydramax Active",
+				"Subtitle" : "CHANEL Hydramax Active",
+				"Description" : "CHANEL Hydramax Active",
+				"TileImagePath" : "Images/Chinese/Chinese_3_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Chinese/Chinese_4_600_C.jpg",
+				"Content" : "Take a little powder puff by puff in the face evenly.",
+				"Favorite" : false,
+				"Ingredients" : [
+					"Modified makeup powder can be better, in liquid foundation smear can make makeup more lasting, meticulous."
+				  ],
+				"UniqueId" : "1003",
+				"PreparationTime" : 15,
+				"Rating" : 4,
+				"Title" : "CHANEL Cosmetic powder",
+				"Subtitle" : "CHANEL Cosmetic powder",
+				"Description" : "CHANEL Cosmetic powder",
+				"TileImagePath" : "Images/Chinese/Chinese_4_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Chinese/Chinese_5_600_C.jpg",
+				"Content" : "The first perfume put on the wrist, and then moved to the other wrist, wrist after so warm, and then from the wrist to the ear, and then rub in the ear of carotid artery and other pulse beats place, elbow, knee medial etc., coated with the ring finger in the local press two times to each.",
+				"Favorite" : false,
+				"Ingredients" : [
+					"Perfume can give us some help soothe emotions, relieve stress. An expression of one's social progress, is a kind of luxury, but is not the necessities of life. It represents a way of life, embodies the personal taste"
+				  ],
+				"UniqueId" : "1004",
+				"PreparationTime" : 3,
+				"Rating" : 3,
+				"Title" : "CHANEL Perfume",
+				"Subtitle" : "CHANEL Perfume",
+				"Description" : "CHANEL Perfume",
+				"TileImagePath" : "Images/Chinese/Chinese_5_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Chinese/Chinese_6_600_C.jpg",
+				"Content" : "Determine the upper lip lip peak and the lower lip of the bottom line, in which several points with pencil on short-term. Respectively, from the outside to the inside painted lip contour, several short-term set connect. Tu finished, with lips with tissue paper quickly sip, immediately release. Thus, lipstick and lip skin can be closely integrated, naturally durable, not easy to fade.",
+				"Favorite" : false,
+				"Ingredients" : [
+					"Lip cosmetics, beautifying modified lip, give the lips are attractive color and beautiful appearance, highlighting its advantages, cover the various defects such as: adjusting the mouth, to narrow the incongruity of the lips became wider; sensual lips wide type becomes narrow, the appropriate use of also can change the facial appearance, and can nourish lips, prevent chapped lips."
+				  ],
+				"UniqueId" : "1005",
+				"PreparationTime" : 2,
+				"Rating" : 4,
+				"Title" : "CHANEL Lipstick",
+				"Subtitle" : "CHANEL Lipstick",
+				"Description" : "CHANEL Lipstick",
+				"TileImagePath" : "Images/Chinese/Chinese_6_150_C.jpg"
+			}
+		]
+	},
+	{
+		"ImagePath" : "Images/french/french_group_detail.png",
+		"Description" : "M A David C S. cosmetics with its rich color and unique formula for success, established professional make-up brand position. M A C has always been the pursuit of David S. fashion, happiness and fantasy together, respect for different races, different gender, different age people the pursuit of dreams and the beauty of the rights and freedoms.",
+		"GroupImagePath" : "Images/French/french_group.png",
+		"GroupHeaderImagePath" : "Images/group_header.png",
+		"UniqueId" : "Group-2",
+		"Subtitle" : "M.A.C",
+		"Title" : "M.A.C",
+		"Items" : [
+			{
+				"ImagePath" : "Images/French/French_1_600_C.jpg",
+				"Content" : "You can mix different colors, create their own desired color; the same color covers several layers of intense appearance; in the Powder Eye Shadow Eyeshadow under superposition, to create the perfect eye rendering, in order to achieve the longest lasting effect; flat eyeliner brush along the lashes with eye shadow painting, create a foil orbital contour the effect of. ",
+				"Favorite" : false,
+				"Ingredients" : [
+					"The eye full color, very easy to smear halo. A variety of color can be freely matched mixed use, diversity makeup feeling. A easy steps to create a unique personality, high set, suction eyes eye makeup."
+					],
+				"UniqueId" : "2000",
+				"PreparationTime" : 20,
+				"Rating" : 5,
+				"Title" : "M.A.C fashion focus small eye shadow",
+				"Subtitle" : "M.A.C fashion focus small eye shadow",
+				"Description" : "M.A.C fashion focus small eye shadow",
+				"TileImagePath" : "Images/French/French_1_150_C.jpg"
+			},
+			{
+				"ImagePath" : "Images/French/French_2_600_C.jpg",
+				"Content" : "Use rise very simple: with a brush dipped after the first scan can be done. The product of long-term dust and a variety of colors for you to choose. ",
+				"Favorite" : false,
+				"Ingredients" : [
+					"M.A.C Eyeliner cream bring moist and soft light makeup for eye. "
+					],
+				"UniqueId" : "2001",
+				"PreparationTime" :10,
+				"Rating" : 5,
+				"Title" : "M.A.C Eyeliner Gel",
+				"Subtitle" : "M.A.C Eyeliner Gel",
+				"Description" : "M.A.C Eyeliner Gel",
+				"TileImagePath" : "Images/French/French_2_150_C.jpg"
+			},
+			{
+				"ImagePath" : "Images/French/French_3_600_C.jpg",
+				"Content" : "The first lip pencil lip and painted; with the ring finger accounted for bright enough powder, then gently beat in the middle position of all the lower lip and upper lip; with the paper towel to gently press off some lipstick grease; another light powder. ",
+				"Favorite" : false,
+				"Ingredients" : [
+					"This lipstick mellow creamy lipstick, a sweet touch of elegance. Bring the color and texture for the lips. Become the focus at the same time, it also makes M.A.C shine."
+					],
+				"UniqueId" : "2002",
+				"PreparationTime" : 1,
+				"Rating" : 4,
+				"Title" : "M.A.C fashion lipstick",
+				"Subtitle" : "M.A.C fashion lipstick",
+				"Description" : "M.A.C fashion lipstick",
+				"TileImagePath" : "Images/French/French_3_150_C.jpg"
+			},
+			{
+				"ImagePath" : "Images/French/French_4_600_C.jpg",
+				"Content" : "Make-up novice recommendations with professional brush to use, such as M.A.C No. 191 foundation brush can quickly and evenly dipped in BB cream, makeup natural fit and thin. Familiar with the make-up steps MM can use puff gently press dipped in cream base, to the point of pressure evenly on the makeup.",
+				"Favorite" : false,
+				"Ingredients" : [
+					"This BB cream box has three kinds of color options available (both translucent), its covering power is moderate, can not completely cover the skin. It has a uniform color, soft focus effect, is used to enhance the skin's natural luster, improve skin texture finish goods."
+					],
+				"UniqueId" : "2003",
+				"PreparationTime" : 10,
+				"Rating" : 4,
+				"Title" : "M.A.C whitening cream makeup before end of fashion",
+				"Subtitle" : "M.A.C whitening cream makeup before end of fashion",
+				"Description" : "M.A.C makeup before the cream base SPF30/PA++ whitening fashion",
+				"TileImagePath" : "Images/French/French_4_150_C.jpg"
+			},
+			{
+				"ImagePath" : "Images/French/French_5_600_C.jpg",
+				"Content" : "Professional fashion Komatsu paint in liquid foundation edge spread, thickness according to the whiteness decided to skin, skin even gentle gently dizzy catch. 2 minutes of water embellish looking finish GET easy, don't worry about the morning sumianchaotian to scare Boss.",
+				"Favorite" : false,
+				"Ingredients" : [
+					"Light makeup depends whether finish. MAC M.A.C mineral moisturizing liquid foundation is rich in various mineral elements, can keep the skin moist and soft state, Concealer force and also very natural makeup effect."
+					],
+				"UniqueId" : "2004",
+				"PreparationTime" : 10,
+				"Rating" : 5,
+				"Title" : "M.A.C mineral moisturizing liquid foundation",
+				"Subtitle" : "M.A.C mineral moisturizing liquid foundation",
+				"Description" : "M.A.C mineral moisturizing liquid foundation",
+				"TileImagePath" : "Images/French/French_5_150_C.jpg"
+			},
+			{
+				"ImagePath" : "Images/French/French_6_600_C.jpg",
+				"Content" : "Take a little powder puff by puff in the face evenly. ",
+				"Favorite" : false,
+				"Ingredients" : [
+					"Mineral powder smooth seamless, show the natural silk like texture tune out. Lightly sweep can achieve smooth Hydrating Facial Makeup Brush for. Skin care composition which can help to nourish the skin, keep skin healthy state."
+					],
+				"UniqueId" : "2005",
+				"PreparationTime" : 10,
+				"Rating" : 4,
+				"Title" : "M.A.C mineral soft powder",
+				"Subtitle" : "M.A.C mineral soft powder",
+				"Description" : "M.A.C mineral soft powder",
+				"TileImagePath" : "Images/French/French_6_150_C.jpg"
+			}
+		]
+	},
+	{ 
+		"ImagePath" : "Images/german/german_group_detail.png",
+		"Description" : "Fashion mirror, symphony of creativity, play of color, Fantasy Art will be a wonderful visual feast to fully demonstrate the professional MAKE UP FOR EVER and fashion designers creativity and, at the same time also fully embodies the spirit of innovation of brand and products rich in the table, it will be a show infinite creativity festival.",
+		"GroupImagePath" : "Images/German/german_group.png",
+		"GroupHeaderImagePath" : "Images/group_header.png",
+		"UniqueId" : "Group-3",
+		"Subtitle" : "MAKE UP FOR EVER",
+		"Title" : "MAKE UP FOR EVER",
+		"Items" : [
+			  {	"ImagePath" : "Images/German/German_1_600_C.jpg",
+				"Content" : "With a sponge or nylon brush smear on the eyelid. In the dry before using the mixed shadow products. Until the product is completely dry and then the blink of an eye.",
+				"Favorite" : false,
+				"Ingredients" : [ "MAKE UP FOR EVER smoky eye liner eye shadow is a super pigment waterproof eye shadow, can build strong and lasting Smokey eye."
+				  ],
+				"UniqueId" : "3000",
+				"PreparationTime" : 5,
+				"Rating" : 5,
+				"Title" : "MAKE UP FOR EVER waterproof smokey Eyeliner Eyeshadow",
+				"Subtitle" : "MAKE UP FOR EVER waterproof smokey Eyeliner Eyeshadow",
+				"Description" : "MAKE UP FOR EVER waterproof smokey Eyeliner Eyeshadow (black)",
+				"TileImagePath" : "Images/German/German_1_150_C.jpg"
+			  },
+			  { "ImagePath" : "Images/German/German_2_600_C.jpg",
+				"Content" : "The first light is coated with a layer of mascara; try false eyelash radian; glue; false eyelashes on the eyelid is placed at the corresponding; and then coated with a layer of eyelash, make eyelash fusion and itself can be used repeatedly. After each use need cleaning.",
+				"Favorite" : false,
+				"Ingredients" : [ "MAKE UP FOR EVER false eyelashes, false eyelashes made from natural selection, natural hair hand, eyelash root are very thin, thin, the effect can be very natural no trace. Height fitting eye shape. And giving the glue, convenient use, portability."
+				  ],
+				"UniqueId" : "3001",
+				"PreparationTime" : 5,
+				"Rating" : 4,
+				"Title" : "MAKE UP FOR EVER false eyelashes",
+				"Subtitle" : "MAKE UP FOR EVER false eyelashes",
+				"Description" : "MAKE UP FOR EVER false eyelashes",
+				"TileImagePath" : "Images/German/German_2_150_C.jpg"
+			  },
+			  { "ImagePath" : "Images/German/German_3_600_C.jpg",
+				"Content" : "To obtain the best thick, with mascara evenly on both sides, under the eyelashes, and from left to right way evenly; to achieve arrhizus distinct effect, select the roots from the eyelashes to brush the eyelash tip has been way; to have more thick eye makeup effect, can be repeatedly brushing smoky mascara.",
+				"Favorite" : false,
+				"Ingredients" : [ "The latest launch five kinds of color lines mascara, colorful makeup to meet demand; three-dimensional thick fiber and synthetic rubber synthetic special brush head can make eyelashes thicker, infinite lengthening and presents the curling effect."
+				  ],
+				"UniqueId" : "3002",
+				"PreparationTime" : 5,
+				"Rating" : 5,
+				"Title" : "MAKE UP FOR EVER color smoky Mascara",
+				"Subtitle" : "MAKE UP FOR EVER color smoky Mascara",
+				"Description" : "MAKE UP FOR EVER color smoky Mascara",
+				"TileImagePath" : "Images/German/German_3_150_C.jpg"
+			  },
+			  { "ImagePath" : "Images/German/German_4_600_C.jpg",
+				"Content" : "Used in the dark area of the face, remove fatigue, small flaws traces of black rim of the eye and face, showing a natural makeup brush on the outside; eyes, cheekbones and jaw above, can capture more light for the face.",
+				"Favorite" : false,
+				"Ingredients" : [ "MAKE UP FOR EVER clear traceless Concealer pen, with oil - free formula, Concealer moisture at the same time, has not left a trace Concealer effect, zero burden at the same time to tighten the bags under the eyes, relieve eye."
+				  ],
+				"UniqueId" : "3003",
+				"PreparationTime" :5,
+				"Rating" : 4,
+				"Title" : "MAKE UP FOR EVER clear traceless Concealer pen",
+				"Subtitle" : "MAKE UP FOR EVER clear traceless Concealer pen",
+				"Description" : "MAKE UP FOR EVER clear traceless Concealer pen",
+				"TileImagePath" : "Images/German/German_4_150_C.jpg"
+			  },
+			  { "ImagePath" : "Images/German/German_5_600_C.jpg",
+				"Content" : "With the ring finger for enough light powder, then gently beat in the middle position of all the lower lip and upper lip; lipstick; with the paper towel to gently press off some lipstick grease.",
+				"Favorite" : false,
+				"Ingredients" : [ "The molecular composition of lip moisture, make the color bright and full, bright translucent color, sparkles"
+				  ],
+				"UniqueId" : "3004",
+				"PreparationTime" : 5,
+				"Rating" : 3,
+				"Title" : "MAKE UP FOR EVER lipstick",
+				"Subtitle" : "MAKE UP FOR EVER lipstick",
+				"Description" : "MAKE UP FOR EVER lipstick",
+				"TileImagePath" : "Images/German/German_5_150_C.jpg"
+			  },
+			  { "ImagePath" : "Images/German/German_6_600_C.jpg",
+				"Content" : "First from the cheeks began large-scale painting, from the lower part of the head to end of eye eye of the painting back and forth. Again with a sponge dipped in take a small amount of powder, smear the hair from his forehead central direction. Then don't have dipped into the foundation, direct smear the nose with a sponge. Along the bridge of the nose to the nasal smear. When applying the nose as long as the covered way gently daub, then in such a way that the lips and around the eyes. Finally, with the palm coated cheeks, the hand temperature and humidity can make the foundation more docile, achieve natural gloss makeup effect without powder sense.",
+				"Favorite" : false,
+				"Ingredients" : [ "Let the original complex makeup sublimated into a simple aesthetic art, love makeup powder really do make every woman can because it becomes."
+				  ],
+				"UniqueId" : "3005",
+				"PreparationTime" : 5,
+				"Rating" : 5,
+				"Title" : "MAKE UP FOR EVER love powder makeup",
+				"Subtitle" : "MAKE UP FOR EVER love powder makeup",
+				"Description" : "MAKE UP FOR EVER love powder makeup",
+				"TileImagePath" : "Images/German/German_6_150_C.jpg"
+			  }
+		]
+	},
+	{
+		"ImagePath" : "Images/Indian/indian_group_detail.png",
+		"Description" : "Maybelline brand slogan, Maybe she is born with it, Maybe it is Maybelline maybe she is a born beauty, perhaps with a Maybelline. (since 1991, usually at the end of the advertising a word) The power is in your hands - the grasp of your beauty.",
+		"GroupImagePath" : "Images/Indian/indian_group.png",
+		"GroupHeaderImagePath" : "Images/group_header.png",
+		"UniqueId" : "Group-4",
+		"Subtitle" : "Maybelline",
+		"Title" : "Maybelline",
+		"Items" : [
+		  { "ImagePath" : "Images/Indian/Indian_1_600_C.jpg",
+			"Content" : "Use: after moisturizing, dry with a dry sponge dipped into the powder of light on the face, or using the same method in whole after the end of makeup makeup .Wet: sponge soaked after the crowded to about 70% of water, and then dipped in a little powder point on the skin. In some spots and uneven skin color by several more, until the whole face color of unity, achieve transparent homogeneous perfect makeup",
+			"Favorite" : false,
+			"Ingredients" : [ "Pomegranate seed extract complex - rich excellent sun protection and whitening refracting particles, help restrain the melanin, desalt, minimize and reduce the stain has been, from the inside out and really shine white. Create a clear light effect, continuous makeup. Experts through the skin test / does not contain fragrance / specifically designed for Asian women."
+			  ],
+			"UniqueId" : "4000",
+			"PreparationTime" : 10,
+			"Rating" : 5,
+			"Title" : "Maybelline Delicate white dual-use powder",
+			"Subtitle" : "Maybelline Delicate white dual-use powder",
+			"Description" : "Maybelline Delicate white dual-use powder",
+			"TileImagePath" : "Images/Indian/Indian_1_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Indian/Indian_2_600_C.jpg",
+			"Content" : "First eyelash curler with the eyelash curler to volume, and then use your fingers to each root eyelashes dispersed. With the eyelash brush side horizontal brush, side up mascara. The roots of the lashes to apply some more. The first part of the eye lashes with the eyelash brush to 1/3 at the direction of the eye head oblique 45 degree angle coating. At the end of eye lashes to eye end deflection with mascara, eyelash root transverse brush mascara. Gently with fingers spread out under the eyelashes, and then the mascara brush up brush, be careful with 1/3 in front of the brush head. Then the mascara brush sideways to brush again next eyelash!",
+			"Favorite" : false,
+			"Ingredients" : [ "Is a set of dense fiber long curling mascara as one of the Almighty, lasting not dizzy catch, throw away the false eyelash, lets you feel the false eyelashes can brush out, curling, slender, densely one has eyes, created fatal charm!"
+			  ],
+			"UniqueId" : "4001",
+			"PreparationTime" : 5,
+			"Rating" : 4,
+			"Title" : "Maybelline The Secret Fan Mascara",
+			"Subtitle" : "Maybelline The Secret Fan Mascara",
+			"Description" : "Maybelline The Secret Fan Mascara",
+			"TileImagePath" : "Images/Indian/Indian_2_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Indian/Indian_3_600_C.jpg",
+			"Content" : "bright sweep over the upper eyelid, silhouette; the dark roots from the eyelashes up dizzy catch; pay attention to natural transition",
+			"Favorite" : false,
+			"Ingredients" : [ "Mix technology of clay, silty fine, color more evenly, baking texture, color is not easy to muddy, makeup is more three-dimensional, light powder, silky perfect lasting, more docile does not fade. "
+			  ],
+			"UniqueId" : "4002",
+			"PreparationTime" : 10,
+			"Rating" : 4,
+			"Title" : "Maybelline The nebula color eye shadow",
+			"Subtitle" : "Maybelline The nebula color eye shadow",
+			"Description" : "Maybelline The nebula color eye shadow",
+			"TileImagePath" : "Images/Indian/Indian_3_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Indian/Indian_4_600_C.jpg",
+			"Content" : "The Maybelline Eyeliner Pen point positioning, the eye area, close to the roots of eyelashes slowly drag eyeliner. The pen head gently pull to eye end, a slightly upward closure. In the last step, from the outer corner of the pen, down eyelid central sketch, deepen the deep eyes effect.",
+			"Favorite" : false,
+			"Ingredients" : [ "This Maybelline eyeliner, smooth texture, rich color and full, a line, smooth, easy to draw, and 100% waterproof anti blooming day, lasting makeup effect, let you bloom charming eyes!"
+			  ],
+			"UniqueId" : "4003",
+			"PreparationTime" : 10,
+			"Rating" : 3,
+			"Title" : "Maybelline Easily draw a smooth automatic eyeliner",
+			"Subtitle" : "Maybelline Easily draw a smooth automatic eyeliner",
+			"Description" : "Maybelline Easily draw a smooth automatic eyeliner",
+			"TileImagePath" : "Images/Indian/Indian_4_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Indian/Indian_5_600_C.jpg",
+			"Content" : "The box cover is tightly screwed. Rocking, will compact inverted, upper and lower shake, make powder falls on the box cover. Dip to circling approach, using brush pure mineral professional makeup brush picks up on the box cover powder, and gently shaking off excess powder. Apply to rotate circularly evenly on the face, to complete and flawless fit makeup.",
+			"Favorite" : false,
+			"Ingredients" : [ "Perfect skin affinity, flush with skin natural extremely fit, cheeks to show the natural healthy glow."
+			  ],
+			"UniqueId" : "4004",
+			"PreparationTime" : 5,
+			"Rating" : 5,
+			"Title" : "Maybelline Mineral hydrating dear skin blush",
+			"Subtitle" : "Maybelline Mineral hydrating dear skin blush",
+			"Description" : "Maybelline Mineral hydrating dear skin blush",
+			"TileImagePath" : "Images/Indian/Indian_5_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Indian/Indian_6_600_C.jpg",
+			"Content" : "Shake the nail polish, a brush and the nail was 45 degrees. From the nail the middle from the root smear, and then painted on both sides of each part, full of nails evenly fast",
+			"Favorite" : false,
+			"Ingredients" : [ "Color is more fashionable, T Taiwan trend Hyun color, shine your fingertips. Innovation bottom oily, more luster, color polyester composition, color more durable. Patent harmless formula, away from formaldehyde / toluene / plasticizer, Manicure more healthy"
+			  ],
+			"UniqueId" : "4005",
+			"PreparationTime" : 15,
+			"Rating" : 5,
+			"Title" : "Maybelline Nail polish color riotous color show tide",
+			"Subtitle" : "Maybelline Nail polish color riotous color show tide",
+			"Description" : "Maybelline Nail polish color riotous color show tide",
+			"TileImagePath" : "Images/Indian/Indian_6_150_C.jpg"
+		  }
+		]
+	},
+	{	
+		"ImagePath" : "Images/italian/italian_group_detail.png",
+		"Description" : "MGPIN brand positioning is the master, professional, Oriental fashion. Create and lead to the Oriental beauty makeup fashion master quality, to provide professional products and professional makeup service, inheriting the oriental culture low-key luxury beauty, create new Oriental fashion.",
+		"GroupImagePath" : "Images/italian/italian_group.png",
+		"GroupHeaderImagePath" : "Images/group_header.png",
+		"UniqueId" : "Group-5",
+		"Subtitle" : "MGPIN",
+		"Title" : "MGPIN",
+		"Items" : [
+			{	"ImagePath" : "Images/Italian/Italian_1_600_C.jpg",
+				"Content" : "Painted eye liner along the lashes. After use, please promptly with cap, so as not to affect the liquid eye liner service life. Is removed, use warm water or eye & lip makeup remover easily remover.",
+				"Favorite" : true,
+				"Ingredients" : [ "It is a let numerous star also love the Punchline. Full and rich textured black tone, let your eyes clear and bright immediately quick dry; unique waterproof formula, can keep the eye all day not dizzy catch; special fibre pen point comfort and easy operation, can easily draw the outline of a perfectly smooth eye lines; all eyes clear spirit moving luster."
+					],
+				"UniqueId" : "5000",
+				"PreparationTime" : 10,
+				"Rating" : 5,
+				"Title" : "MGPIN Plastic streamer lasting Eyeliner",
+				"Subtitle" : "MGPIN Plastic streamer lasting Eyeliner",
+				"Description" : "MGPIN Plastic streamer lasting Eyeliner",
+				"TileImagePath" : "Images/Italian/Italian_1_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Italian/Italian_2_600_C.jpg",
+				"Content" : "After the skin, take appropriate amount of isolation milk directly with pulp evenly on face and neck. Or can be matched with a makeup sponge to ",
+				"Favorite" : false,
+				"Ingredients" : [ "MGPIN makeup before the isolation milk contains natural moisturizing ingredients, immediately relieve dry lines, soften horny, effective isolation make-up and external violation at the same time, easy to create exquisite and smooth skin, make makeup more easy to smear, moist docile. Especially suitable for normal to dry skin."
+					],
+				"UniqueId" : "5001",
+				"PreparationTime" : 10,
+				"Rating" : 4,
+				"Title" : "MGPIN Makeup before the isolation of milk",
+				"Subtitle" : "MGPIN Makeup before the isolation of milk",
+				"Description" : "MGPIN Makeup before the isolation of milk",
+				"TileImagePath" : "Images/Italian/Italian_2_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Italian/Italian_3_600_C.jpg",
+				"Content" : "Using MGPIN professional dressing brush comb the eyebrows, and then use the eyebrow pencil sketch moulding exquisite suitable eyebrow, eyebrow brush head with built-in will depict the line harmonic nature. Also available from brow to Mei Feng to Mei Wei brows growth direction of an one root painted, adjust eyebrow with the eyebrow brush gently, make the color uniform.",
+				"Favorite" : false,
+				"Ingredients" : [ "MGPIN moulding delicate eyebrow pencil texture abundance smooth, ductility is good, easy to picture, and thin core easily create like natural delicate eyebrows; incidental eyebrow brush head, help blooming color, create a more natural eyebrow real delicate!"
+					],
+				"UniqueId" : "5002",
+				"PreparationTime" : 10,
+				"Rating" : 3,
+				"Title" : "MGPIN Delicate eyebrow shaping",
+				"Subtitle" : "MGPIN Delicate eyebrow shaping",
+				"Description" : "MGPIN Delicate eyebrow shaping",
+				"TileImagePath" : "Images/Italian/Italian_3_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Italian/Italian_4_600_C.jpg",
+				"Content" : "Use Blusher Brush dipped into the appropriate amount of the product F12, modified outer contour, pay attention to color edge smooth transition. Before and after the foundation can be used.",
+				"Favorite" : false,
+				"Ingredients" : [ "Modified perfect makeup indispensable auxiliary products. Especially designed for Asian women skin modulation natural shadow color, makeup sense of true color, natural Tiancheng, contraction of facial contour, shape little face visual effect. Super fine powder, show lasting makeup effect."
+					],
+				"UniqueId" : "5003",
+				"PreparationTime" : 10,
+				"Rating" : 5,
+				"Title" : "MGPIN The shadow of light plastic Yan Xiu Rong cake",
+				"Subtitle" : "MGPIN The shadow of light plastic Yan Xiu Rong cake",
+				"Description" : "MGPIN The shadow of light plastic Yan Xiu Rong cake",
+				"TileImagePath" : "Images/Italian/Italian_4_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Italian/Italian_5_600_C.jpg",
+				"Content" : "Skin care, with the ring finger pulp, take proper amount of the eye cream gently massage around the eyes, massage the skin until completely absorbed.",
+				"Favorite" : false,
+				"Ingredients" : [ "Refreshing gel texture, bring moisture cool texture, contains rare elderflower, Chlorella and other plant extracts, can quickly nourishing and soothe dry skin of the eye, stimulate the eye vigor and promote the skin microcirculation, effectively alleviate the dark circles and puffiness, make eyes immediately resume fresh and moist. With continued use, the eye skin daily fine smooth, bright and glorious release eye."
+					],
+				"UniqueId" : "5004",
+				"PreparationTime" : 5,
+				"Rating" : 4,
+				"Title" : "MGPIN Water Radiance Moisturizing Cream",
+				"Subtitle" : "MGPIN Water Radiance Moisturizing Cream",
+				"Description" : "MGPIN Water Radiance Moisturizing Cream",
+				"TileImagePath" : "Images/Italian/Italian_5_150_C.jpg"
+			},
+			{	"ImagePath" : "Images/Italian/Italian_6_600_C.jpg",
+				"Content" : "The use of professional brush, dipped into the appropriate lips painted lip glaze. Repeated coated with several layers, can obtain more full and lustrous makeup effect, also can be matched with a lip liner or lipstick. ",
+				"Favorite" : false,
+				"Ingredients" : [ "Soft texture, smooth, full color, instantly brings such as enamel as attractive luster, unique moisturizing formula protects the lips, make your lips natural outstanding, show run color plump makeup effect!"
+					],
+				"UniqueId" : "5005",
+				"PreparationTime" : 10,
+				"Rating" : 4,
+				"Title" : "MGPIN Aqua ice porcelain labial enamel",
+				"Subtitle" : "MGPIN Aqua ice porcelain labial enamel",
+				"Description" : "MGPIN Aqua ice porcelain labial enamel",
+				"TileImagePath" : "Images/Italian/Italian_6_150_C.jpg"
+			}
+		]
+	},
+	{
+		"ImagePath" : "Images/mexican/mexican_group_detail.png",
+		"Description" : "Nars is composed of origin of fashion master of French cosmetics Franxois Nars in 1994 created American professional make-up brand. NARS with the classic black, add character Logo to express the brand minimalist spirit. The fashion stage background, let Nars in color, creativity, chromaticity, until the product counters packaging are quite fashion.",
+		"GroupImagePath" : "Images/mexican/mexican_group.png",
+		"GroupHeaderImagePath" : "Images/group_header.png",
+		"UniqueId" : "Group-6",
+		"Subtitle" : "NARS",
+		"Title" : "NARS",
+		"Items" : [
+		  {	"ImagePath" : "Images/Mexican/Mexican_1_600_C.jpg",
+			"Content" : "Playing with a pearl light sockets used brightly orbital of the foundation, easy on the eye shadow color and make colors more vivid. Painted eye shadow close to the eyelids painted pink eye, eyelid at some deep to shallow, the eye socket at. ",
+			"Favorite" : false,
+			"Ingredients" : [ "Super intelligent, multifunctional Xingcan Luxury Eye shadow, new dual formulation with dry wet dual-purpose can show different eye color texture; exclusive photographic technology, make the eye shadow with different angle sends out dazzing luster, 360 degrees of photosensitive zero dead, let you easily control, your eyes, not only a kind of facial expression dry rub!: show custom grade light spinning pearlescent texture, wet wipe: show a very glossy paint cortex eye-catching."
+			  ],
+			"UniqueId" : "6000",
+			"PreparationTime" : 10,
+			"Rating" : 4,
+			"Title" : "NARS very luxurious eye shadow",
+			"Subtitle" : "NARS very luxurious eye shadow",
+			"Description" : "NARS very luxurious eye shadow",
+			"TileImagePath" : "Images/Mexican/Mexican_1_150_C.jpg"
+		  },
+		  {	"ImagePath" : "Images/Mexican/Mexican_2_600_C.jpg",
+			"Content" : "The corners of the mouth is directly coated with NG. Lip Gloss soft texture, if the heap to lip contour will very natural. After the first brush with the lip gloss lip covered from central began to paint. Lip stick lips from the central to the left and right until the mouth part daub. Brush with the lip side against the lower side of the mouth, lip line to the central painting. The other side to repeat the same action.",
+			"Favorite" : false,
+			"Ingredients" : [ "Bring Angel pure nude lips feeling, let lips full of Hydra gloss. With wild mango butter bring excellent moisturizing effect, make your lips soft and soothing, repair dry or cracked skin. Vitamin E, polar wild berry and Asai berry antioxidant lip provide required and moisturizing factor."
+			  ],
+			"UniqueId" : "6001",
+			"PreparationTime" : 10,
+			"Rating" : 4,
+			"Title" : "NARS Naked angels lip Anna",
+			"Subtitle" : "NARS Naked angels lip Anna",
+			"Description" :  "NARS Naked angels lip Anna",
+			"TileImagePath" : "Images/Mexican/Mexican_2_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Mexican/Mexican_3_600_C.jpg",
+			"Content" : "Gently press the lip line in order from left to right across, attention can repair type",
+			"Favorite" : false,
+			"Ingredients" : [ "Gorgeous extravagance of the deep purple red to night train from France magnificent design, makeup lips million charming gesture"
+			  ],
+			"UniqueId" : "6002",
+			"PreparationTime" : 2,
+			"Rating" : 5,
+			"Title" : "NARS Lip velvet",
+			"Subtitle" : "NARS Lip velvet",
+			"Description" : "NARS Lip velvet",
+			"TileImagePath" : "Images/Mexican/Mexican_3_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Mexican/Mexican_4_600_C.jpg",
+			"Content" : "A water wash with a cotton ball soaked. Clear nail polish to start from the left little finger. The cotton on the nail surface, duration 5 minutes. The first wipe three times back and forth, and then from the nail rear front wipe, while maintaining a slight pressure on the surface of the nail. ",
+			"Favorite" : false,
+			"Ingredients" : [ "This dark grey color to create ten refers to refers to the smoke filled luxury ornament expression, perfect whole personality makeup.",
+				"Sour cream"
+			  ],
+			"UniqueId" : "6003",
+			"PreparationTime" : 2,
+			"Rating" : 5,
+			"Title" : "NARS Modern refers to the color of oil",
+			"Subtitle" : "NARS Modern refers to the color of oil",
+			"Description" : "NARS Modern refers to the color of oil",
+			"TileImagePath" : "Images/Mexican/Mexican_4_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Mexican/Mexican_5_600_C.jpg",
+			"Content" : "After the smear foundation should stay a few minutes to make the foundation firmly, and then loose powder. With a puff or makeup brush dipped in powder, slightly shook to part, from the top down to the face powder, to prevent the powder accumulation in the hair on the face, causing uneven. Then sweep away the excess loose powder makeup. Coated with a layer of loose powder under the eyes can prevent powder eye shadow fell. If the use of velvet puff, to gently in the face of pressing or rolling, put pressure on the face powder.",
+			"Favorite" : false,
+			"Ingredients" : [ "Contains hyaluronic acid skin every hour and moment are full of water, to achieve the ultimate moisturizing, skin appears impeccable perfect silky feeling, and add the effective skin care ingredients, help maintain a full day of moistening and tender. Clinically proven to display, use 12 hours later, the skin can maintain the 80% moisture capacity!"
+			  ],
+			"UniqueId" : "6004",
+			"PreparationTime" : 10,
+			"Rating" : 3,
+			"Title" : "NARS Intelligent water Velvet Cream",
+			"Subtitle" : "NARS Intelligent water Velvet Cream",
+			"Description" : "NARS Intelligent water Velvet Cream",
+			"TileImagePath" : "Images/Mexican/Mexican_5_150_C.jpg"
+		  },
+		  { "ImagePath" : "Images/Mexican/Mexican_6_600_C.jpg",
+			"Content" : "With eyelash clip as the central, inner corner of the eye, the canthus outside sequence clip eyelashes, and then the middle part of the eyelash more clip once, so this part than other more curling eyelashes. Rendering the use of mascara transparent, according to the Central Committee, the inner corner, the outside corner of the eye to the sequence from the root of eyelashes to the eyelashes tip, are not carefully to brush the omission on end with the eyelash brush, brush the inside corner of the eye according to the order of the central, the outer corner of the Eye Mascara, then the front end then Mascara lengthening the middle part eyelashes.",
+			"Favorite" : false,
+			"Ingredients" : [ "Mascara design from Fran C OIS Nars inspiration to has soft touch feeling more ergonomic concept, to provide the use of feeling of luxury in the makeup process simple in. There are rich in vitamin E, every brush a give eyelashes nutritional supplement, increase elasticity. Macadamia nut oil moisten root of eyelash, make eye makeup rich luster. ", 
+				"8 lime wedges"
+			  ],
+			"UniqueId" : "6005",
+			"PreparationTime" : 10,
+			"Rating" : 5,
+			"Title" : "NARS Peerless Mascara Waterproof",
+			"Subtitle" : "NARS Peerless Mascara Waterproof",
+			"Description" : "NARS Peerless Mascara Waterproof",
+			"TileImagePath" : "Images/Mexican/Mexican_6_150_C.jpg"
+		  }
+		]
+	}
+]
+}

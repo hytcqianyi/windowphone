@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>STUDENT</Machine>
+    <WindowsUser>just</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c5e9dae9-6f07-4394-9a42-e3562f8ccb90</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\just\Desktop\Charming Makeup\Charming Makeup\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.exe">
+      <PackagePath>Charming Makeup.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\20071225164319435_2.jpg">
+      <PackagePath>Images\20071225164319435_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Beans.jpg">
+      <PackagePath>Images\Beans.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Bread.jpg">
+      <PackagePath>Images\Bread.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Bread1.jpg">
+      <PackagePath>Images\Bread1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_1_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_1_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_2_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_2_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_3_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_3_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_4_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_4_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_5_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_5_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_6_150_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_6_310_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\Chinese_6_600_C.jpg">
+      <PackagePath>Images\Chinese\Chinese_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_1_150_C.jpg">
+      <PackagePath>Images\French\French_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_1_600_C.jpg">
+      <PackagePath>Images\French\French_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_2_150_C.jpg">
+      <PackagePath>Images\French\French_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_2_310_C.jpg">
+      <PackagePath>Images\French\French_2_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_2_600_C.jpg">
+      <PackagePath>Images\French\French_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_3_150_C.jpg">
+      <PackagePath>Images\French\French_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_3_600_C.jpg">
+      <PackagePath>Images\French\French_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_4_150_C.jpg">
+      <PackagePath>Images\French\French_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_4_600_C.jpg">
+      <PackagePath>Images\French\French_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_5_150_C.jpg">
+      <PackagePath>Images\French\French_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_5_600_C.jpg">
+      <PackagePath>Images\French\French_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_6_150_C.jpg">
+      <PackagePath>Images\French\French_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\French_6_600_C.jpg">
+      <PackagePath>Images\French\French_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Fruit.jpg">
+      <PackagePath>Images\Fruit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_1_150_C.jpg">
+      <PackagePath>Images\German\German_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_1_600_C.jpg">
+      <PackagePath>Images\German\German_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_2_150_C.jpg">
+      <PackagePath>Images\German\German_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_2_600_C.jpg">
+      <PackagePath>Images\German\German_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_3_150_C.jpg">
+      <PackagePath>Images\German\German_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_3_600_C.jpg">
+      <PackagePath>Images\German\German_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_4_150_C.jpg">
+      <PackagePath>Images\German\German_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_4_310_C.jpg">
+      <PackagePath>Images\German\German_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_4_600_C.jpg">
+      <PackagePath>Images\German\German_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_5_150_C.jpg">
+      <PackagePath>Images\German\German_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_5_600_C.jpg">
+      <PackagePath>Images\German\German_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_6_150_C.jpg">
+      <PackagePath>Images\German\German_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\German_6_600_C.jpg">
+      <PackagePath>Images\German\German_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\62.jpg">
+      <PackagePath>Images\Indian\62.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_1_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_1_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_2_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_2_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_3_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_3_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_4_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_4_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_5_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_5_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_6_150_C.jpg">
+      <PackagePath>Images\Indian\Indian_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\Indian_6_600_C.jpg">
+      <PackagePath>Images\Indian\Indian_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_1_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_1_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_2_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_2_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_3_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_3_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_4_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_4_310_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_4_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_5_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_5_310_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_5_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_6_150_C.jpg">
+      <PackagePath>Images\Italian\Italian_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\Italian_6_600_C.jpg">
+      <PackagePath>Images\Italian\Italian_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_1_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_1_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_1_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_1_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_2_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_2_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_2_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_2_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_3_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_3_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_3_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_3_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_4_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_4_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_4_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_4_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_5_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_5_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_5_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_5_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_6_150_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_6_150_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\Mexican_6_600_C.jpg">
+      <PackagePath>Images\Mexican\Mexican_6_600_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\u=873939890,1015591777&amp;fm=23&amp;gp=0.jpg">
+      <PackagePath>Images\Mexican\u=873939890,1015591777&amp;fm=23&amp;gp=0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Muesli.jpg">
+      <PackagePath>Images\Muesli.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Tiles\Chinese_6_310_C.jpg">
+      <PackagePath>Images\Tiles\Chinese_6_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Tiles\French_2_310_C.jpg">
+      <PackagePath>Images\Tiles\French_2_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Tiles\German_4_310_C.jpg">
+      <PackagePath>Images\Tiles\German_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Tiles\Italian_4_310_C.jpg">
+      <PackagePath>Images\Tiles\Italian_4_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Tiles\Italian_5_310_C.jpg">
+      <PackagePath>Images\Tiles\Italian_5_310_C.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\1chinese_group_header.png">
+      <PackagePath>Images\Chinese\1chinese_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\2chinese_group_detail.png">
+      <PackagePath>Images\Chinese\2chinese_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\chinese_group.png">
+      <PackagePath>Images\Chinese\chinese_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\chinese_group_detail.png">
+      <PackagePath>Images\Chinese\chinese_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Chinese\chinese_group_header.png">
+      <PackagePath>Images\Chinese\chinese_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\1french_group_detail.png">
+      <PackagePath>Images\French\1french_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\1french_group_header.png">
+      <PackagePath>Images\French\1french_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\french_group.png">
+      <PackagePath>Images\French\french_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\french_group_detail.png">
+      <PackagePath>Images\French\french_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\French\french_group_header.png">
+      <PackagePath>Images\French\french_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\1german_group_detail.png">
+      <PackagePath>Images\German\1german_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\1german_group_header.png">
+      <PackagePath>Images\German\1german_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\german_group.png">
+      <PackagePath>Images\German\german_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\german_group_detail.png">
+      <PackagePath>Images\German\german_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\German\german_group_header.png">
+      <PackagePath>Images\German\german_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\group_header.png">
+      <PackagePath>Images\group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Hero.png">
+      <PackagePath>Images\Hero.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Hero1.png">
+      <PackagePath>Images\Hero1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Hero2.png">
+      <PackagePath>Images\Hero2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\1indian_group_detail.png">
+      <PackagePath>Images\Indian\1indian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\german_group_header.png">
+      <PackagePath>Images\Indian\german_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\indian_group.png">
+      <PackagePath>Images\Indian\indian_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\indian_group_detail.png">
+      <PackagePath>Images\Indian\indian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Indian\indian_group_header.png">
+      <PackagePath>Images\Indian\indian_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\1italian_group_detail.png">
+      <PackagePath>Images\Italian\1italian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\italian_group.png">
+      <PackagePath>Images\Italian\italian_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\italian_group_detail.png">
+      <PackagePath>Images\Italian\italian_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Italian\italian_group_header.png">
+      <PackagePath>Images\Italian\italian_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\1mexican_group_detail.png">
+      <PackagePath>Images\Mexican\1mexican_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\24.png">
+      <PackagePath>Images\Mexican\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\mexican_group.png">
+      <PackagePath>Images\Mexican\mexican_group.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\mexican_group_detail.png">
+      <PackagePath>Images\Mexican\mexican_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Images\Mexican\mexican_group_header.png">
+      <PackagePath>Images\Mexican\mexican_group_header.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\LargeLogo.scale-100.png">
+      <PackagePath>Assets\LargeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\SearchResultsPage.xbf">
+      <PackagePath>SearchResultsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\Charming Makeup.xr.xml">
+      <PackagePath>Charming Makeup.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\just\Desktop\Charming Makeup\Charming Makeup\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
